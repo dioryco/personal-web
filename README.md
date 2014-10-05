@@ -1,2 +1,2 @@
-The Personal Web project by Diory.co
+The Personal Web project
 ============
